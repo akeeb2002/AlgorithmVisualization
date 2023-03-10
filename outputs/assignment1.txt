@@ -1,0 +1,10 @@
+                             10        100        1000        10000
+native_search             0.255108  0.722170   5.004883   48.244953
+linear_search_iterative   0.588655  2.368212  20.815611  220.567465
+binary_search_iterative   0.630617  1.018524   1.528502    2.154112
+binary_search_recursive   0.857830  1.456738   2.327681    3.506660
+binary_search_randomized  3.082037  6.103992  10.466337   14.727354
+exponential_search        0.923157  1.575470   2.694607    3.865957
+jump_search               1.144409  2.606630   7.565022   23.364544
+interpolation_search      0.975609  1.306295   1.695395    2.056837
+fibonacci_search          1.189947  2.030849   3.321171    4.401922
